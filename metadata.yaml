@@ -1,11 +1,16 @@
 _repo: Pataffio-Tesoretto_63082
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63082-h/images/cover.jpg
 creator:
   author:
     agent_name: Latini, Brunetto
     gutenberg_agent_id: '52271'
     url: http://www.gutenberg.org/2009/agents/52271
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63082#Pataffio-Tesoretto
 gutenberg_issued: '2020-08-30'
 gutenberg_type: Text
 identifiers:
